@@ -20,7 +20,7 @@ Após as dependências instaladas, execute o comando abaixo para rodar o projeto
 ## English
 
 This project was developed with [Create React App](https://github.com/facebook/create-react-app) + TypeScript.
-styled-components was used to style de design
+styled-components was used to style the design
 
 ### Available Scripts
 
